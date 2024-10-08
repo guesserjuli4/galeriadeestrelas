@@ -1,0 +1,46 @@
+body{
+    background-color: #031a57;
+}
+.banner{   
+    width: 50%;
+    margin: 0 auto;
+
+}
+.banner img {
+    width: 600px;
+}
+.helcome{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 30px;
+    font-size: 20px;
+}
+.helcome p{
+    color: aliceblue;
+}
+.button{
+    margin-top: 60px;
+    margin-left: 500px;
+    padding: 100px;
+   
+}
+
+.cards{
+    margin-top: 100px;
+    margin: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.pai img{
+    width: 200px;
+}
+.eyshila img{
+    width: 200px;
+}
+.major img{
+    width: 200px;
+}
+.kali img{
+    width: 200px;
+}
