@@ -31,16 +31,56 @@ body{
     padding: 10px;
     display: flex;
     justify-content: space-around;
+    
+}
+.cards p{
+    font-size: 30px;
+    padding-left: 30px;
+}
+.pai{
+    background-color:aliceblue;
+}
+.eyshila{
+    background-color: aliceblue;
+}
+.major{
+    background-color: aliceblue;
+}
+.kali{
+    background-color: aliceblue;
 }
 .pai img{
     width: 200px;
+    margin: 20px;
+    margin-top: 40px;
 }
 .eyshila img{
     width: 200px;
+    margin: 20px;
 }
 .major img{
     width: 200px;
+    margin: 20px;
+}
+.major p{
+    font-size: 20px;;
 }
 .kali img{
     width: 200px;
+    margin: 20px;
+}
+.colagemshila{
+    width: 800px;
+    margin-trim: 30px;
+    padding: 50px;
+    padding-left: 250px;
+}
+.aboutshila{
+    margin: 20px;
+    
+}
+.titulo{
+    font-size: 50px;
+    color: #fdeaac;
+    margin-left: 500px;
 }
